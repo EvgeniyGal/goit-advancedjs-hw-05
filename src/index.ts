@@ -1,4 +1,4 @@
-import { concatenetion } from "./concantenation";
+import { concatenetion } from "./concantenation.js";
 
 const button = document.querySelector("button");
 const input = document.querySelector("input");
